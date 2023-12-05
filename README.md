@@ -1,2 +1,2 @@
 # calculatorApp
-A simple calculator using html css js
+A simple calculator using html css js ( jquery)
